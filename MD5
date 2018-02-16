@@ -1,0 +1,13 @@
+7712d514b9ad1e4bf94b8133ff8bca2d *DESCRIPTION
+a34a2401de56922d5fb2ef84181c2584 *LICENSE
+213cdb9c924685c63b8bfc9c36def05c *NAMESPACE
+1ddc8c86b90f5008f1c95908158b1210 *NEWS
+ca51e0c0c894c69ffa6c9a65322cb7fc *R/assert.R
+5d41f439ca80d0027f252b815b87b379 *R/assign.R
+815b712c1a4769f59e7bb7b23ec33580 *R/names.R
+50934b91997d289fcb3b02bb74017d92 *R/tree.R
+0af9730b22fcad0c550ec8653a4ac216 *R/util.R
+9742369ea3449e852d5ec0a7e41f94f1 *man/assign.Rd
+0a84bcfdac23ca6916c75fc735fdc45e *tests/testthat.R
+a43d14c94603916d30efff23b8498141 *tests/testthat/test-assign.R
+8d29513e66feacb44db274817bd27c82 *tests/testthat/test-errors.R
